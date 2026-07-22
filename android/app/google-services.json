@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558019207400",
+    "project_id": "scouttalent-c289d",
+    "storage_bucket": "scouttalent-c289d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558019207400:android:9ece69527bfb907537e95d",
+        "android_client_info": {
+          "package_name": "com.scoutTalent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Ija6epvq8lMQno7BiAJe9Bxbyz4an1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
